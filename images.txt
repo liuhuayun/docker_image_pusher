@@ -1,2 +1,2 @@
 mongo
-nginx
+docker.io/openjdk:8u222
