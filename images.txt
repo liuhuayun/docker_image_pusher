@@ -1,2 +1,4 @@
 mongo
 docker.io/openjdk:8u222
+ghcr.io/open-webui/open-webui:main
+ollama/ollama
