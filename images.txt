@@ -1,2 +1,3 @@
-daswer123/xtts-api-server:latest
+sepia/coqui-tts:amd64
+# daswer123/xtts-api-server:latest
 # synesthesiam/coqui-tts:0.1.0
