@@ -1,3 +1,4 @@
-sepia/coqui-tts:amd64
+qq1aq/kokoro-fastapi-cpu:latest
+# sepia/coqui-tts:amd64
 # daswer123/xtts-api-server:latest
 # synesthesiam/coqui-tts:0.1.0
