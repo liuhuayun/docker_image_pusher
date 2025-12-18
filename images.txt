@@ -1,4 +1,1 @@
-registry.fit2cloud.com/maxkb/maxkb
-ghcr.io/open-webui/open-webui:main
-ollama/ollama
-ghcr.io/open-webui/open-webui:main
+synesthesiam/coqui-tts:0.1.0
