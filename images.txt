@@ -1,4 +1,5 @@
-timhagel/melotts-api-server:latest
+bgcol/voxcpm-tts:latest
+# timhagel/melotts-api-server:latest
 # qq1aq/kokoro-fastapi-cpu:latest
 # sepia/coqui-tts:amd64
 # daswer123/xtts-api-server:latest
