@@ -1,4 +1,5 @@
-qq1aq/kokoro-fastapi-cpu:latest
+timhagel/melotts-api-server:latest
+# qq1aq/kokoro-fastapi-cpu:latest
 # sepia/coqui-tts:amd64
 # daswer123/xtts-api-server:latest
 # synesthesiam/coqui-tts:0.1.0
