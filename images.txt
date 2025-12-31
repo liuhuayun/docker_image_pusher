@@ -1,5 +1,5 @@
-jamiebones/spark-tts:v1
 zacksock/kokoro:latest
+# jamiebones/spark-tts:v1
 # bgcol/voxcpm-tts:latest
 # timhagel/melotts-api-server:latest
 # qq1aq/kokoro-fastapi-cpu:latest
