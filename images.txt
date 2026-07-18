@@ -1,4 +1,11 @@
-rabbitmq:4.0.9-management
+perconalab/percona-xtradb-cluster-operator:main
+perconalab/percona-xtradb-cluster-operator:main-pxc8.4
+perconalab/percona-xtradb-cluster-operator:main-haproxy
+perconalab/percona-xtradb-cluster-operator:main-proxysql
+perconalab/fluentbit:main-logcollector
+perconalab/pmm-client:3-dev-latest
+perconalab/percona-xtradb-cluster-operator:main-pxc8.4-backup
+# rabbitmq:4.0.9-management
 # archivebox/archivebox
 # yagagagaga/doris-standalone
 # corfr/tcpdump
