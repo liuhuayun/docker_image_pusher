@@ -1,4 +1,5 @@
-ginnux/k8s-mcp-server
+dhi.io/python:3.13
+# ginnux/k8s-mcp-server
 # perconalab/percona-xtradb-cluster-operator:main
 # perconalab/percona-xtradb-cluster-operator:main-pxc8.4
 # perconalab/percona-xtradb-cluster-operator:main-haproxy
