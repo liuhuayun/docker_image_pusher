@@ -1,6 +1,8 @@
-ghcr.io/feiskyer/mcp-kubernetes-server
-rohitghumare64/kubectl-mcp-server:latest
-ginnux/k8s-mcp-server:latest
+rockchin/langbot:latest
+rockchin/langbot-sandbox:latest
+# ghcr.io/feiskyer/mcp-kubernetes-server
+# rohitghumare64/kubectl-mcp-server:latest
+# ginnux/k8s-mcp-server:latest
 # --platform=linux/amd64 uozi/nginx-ui:latest
 # --platform=linux/arm64 uozi/nginx-ui:latest
 # dhi.io/python:3
