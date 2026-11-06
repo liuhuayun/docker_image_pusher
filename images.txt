@@ -1,5 +1,5 @@
 rockchin/langbot:latest
-rockchin/langbot-sandbox:latest
+# rockchin/langbot-sandbox:latest
 # ghcr.io/feiskyer/mcp-kubernetes-server
 # rohitghumare64/kubectl-mcp-server:latest
 # ginnux/k8s-mcp-server:latest
