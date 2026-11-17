@@ -1,4 +1,5 @@
-jackai886/office-mcp:latest
+justinbomber/office-powerpoint-mcp-server
+# jackai886/office-mcp:latest
 # rockchin/langbot:latest
 # rockchin/langbot-sandbox:latest
 # ghcr.io/feiskyer/mcp-kubernetes-server
