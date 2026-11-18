@@ -1,4 +1,5 @@
-justinbomber/office-powerpoint-mcp-server
+ychen94/mindmap-converter-mcp
+# justinbomber/office-powerpoint-mcp-server
 # jackai886/office-mcp:latest
 # rockchin/langbot:latest
 # rockchin/langbot-sandbox:latest
