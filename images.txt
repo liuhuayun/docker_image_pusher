@@ -1,5 +1,6 @@
-ychen94/mindmap-converter-mcp
-acuvity/mcp-server-sequential-thinking
+chrislusf/seaweedfs:latest
+# ychen94/mindmap-converter-mcp
+# acuvity/mcp-server-sequential-thinking
 # justinbomber/office-powerpoint-mcp-server
 # jackai886/office-mcp:latest
 # rockchin/langbot:latest
