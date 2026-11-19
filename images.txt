@@ -1,4 +1,5 @@
-chrislusf/seaweedfs:latest
+bradleylzh/landppt:latest
+# chrislusf/seaweedfs:latest
 # ychen94/mindmap-converter-mcp
 # acuvity/mcp-server-sequential-thinking
 # justinbomber/office-powerpoint-mcp-server
